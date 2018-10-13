@@ -1,8 +1,7 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
+  "name": "account-activity-dashboard",
+  "description": "Sample web app and helper scripts to get started with Twitter's Account Activity API. Written in Node.js.",
+  "repository": "https://github.com/twitterdev/account-activity-dashboard",
+  "keywords": ["node", "express", "api", "webhook", "twitter"],
+  "success_url": "/"
 }
